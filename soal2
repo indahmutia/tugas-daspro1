@@ -1,0 +1,16 @@
+program soal2;
+begin
+    writeln('1.januari');
+    writeln('2.februari');
+    writeln('3.maret');
+    writeln('4.april');
+    writeln('5.mei');
+    writeln('6.juni');
+    writeln('7.juli');
+    writeln('8.agustus');
+    writeln('9.september');
+    writeln('10.oktober');
+    writeln('11.november');
+    writeln('12.desember');
+
+end.
