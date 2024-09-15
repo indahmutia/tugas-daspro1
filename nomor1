@@ -1,0 +1,6 @@
+program tugas1;
+   
+begin
+     Writeln('Belajar Pascal untuk Dasar Pemograman');
+ end.
+
